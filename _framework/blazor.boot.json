@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "CodeAudit.Web",
   "resources": {
-    "hash": "sha256-BWX2ggPpHosg9riQUV47rtFKvY49bevs1ryGjwDxr9Q=",
+    "hash": "sha256-ajj9oX6zG/DzNXzG5gtgvtazh6pfuHchYUBwjvOc+CI=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-RiGT44TFZmHOY+Oqvb8o8r+BJVWex6+dPxFxrOiWvFY="
     },
@@ -18,10 +18,10 @@
     },
     "coreAssembly": {},
     "assembly": {
-      "CodeAudit.Core.wasm": "sha256-cTCPTeu33P/hZgJucxRfS2gXiFzAVuMxltbzHbKOG3k=",
-      "CodeAudit.Rules.wasm": "sha256-6MKdxC7zr11XUrRLtDQ/c3qvWH+3KyXpovn0TH7/2sE=",
-      "CodeAudit.Web.wasm": "sha256-A4rorqUcdYh02TV3u1S9zGwdxWBILOvOQtRmofTBuqw=",
-      "Common.wasm": "sha256-wlqnSsvZBHMCPrj/fX4PE3USdOQBuv4KAL2OgxogHTs=",
+      "CodeAudit.Core.wasm": "sha256-448pq26UZQaZtStV5B0Uyu190U074Uo5CAbIO+vCZ9k=",
+      "CodeAudit.Rules.wasm": "sha256-I6jXSe+eGaLT5S4/F4ROMtvFuJ+hzXOJQhkSCsSJ7XQ=",
+      "CodeAudit.Web.wasm": "sha256-Tbh7DmotQHGrhfuPfSlIv88Z/zTNGW5whMJ6TCKdZg4=",
+      "Common.wasm": "sha256-T15l/Kl8LTZ2JeDKPrItJ3keL5u5/jw0mViFaPrWH00=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-M9aHd+OkwkLeouhyMGJ9+aOUlDFOLoMEQH1+uMgVD4A=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-YBo05jwwpO4uPXIbILQOXgv5Yq9IgMFtG8Wxykcx7vY=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-9BvHREQWEIdW8gRIV5ZXtGyaHdxZw8eOrWJ1OqWrLT8=",
@@ -39,7 +39,7 @@
       "Microsoft.JSInterop.wasm": "sha256-7Iqfx5pHgTJmWHbe4ZXxoyFLpkScaJz9k7gSHicO/Xs=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-ohwfdd8sZzTEHObZdmOGR9D4n2K6kspCJmHpSHevlCQ=",
       "mscorlib.wasm": "sha256-N3ZlAF8nUEO+OR9ObkGucvMODvS9CcCzvffPBo7HUM4=",
-      "ParserLib.wasm": "sha256-akyYK7vyMJkjBZO4JEfhCcmaWsvcIHd37jlz9dqYuqk=",
+      "ParserLib.wasm": "sha256-d/cipEFBpGwkIKis57FOV0Bo8ILhFag2L63ZvKyR5AE=",
       "System.Collections.Concurrent.wasm": "sha256-ZdTNWobc2J/JrQBBELngamjuBOJQ0MvH+a9mUZVhrmo=",
       "System.Collections.Immutable.wasm": "sha256-W6tkXWQavaBttyxaaSvTGbQsUapYuU/8y9nn5hu7CIU=",
       "System.Collections.NonGeneric.wasm": "sha256-8qsdac02PIS2VsoPFArNbeTEu0GwotkYhgiz+56Xz14=",
