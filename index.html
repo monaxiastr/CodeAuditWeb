@@ -60,9 +60,11 @@
     </script>
     <script>
         window.initEditor = function (elementId, initialCode, language) {
-            const editor = CodeMirror.fromTextArea(document.getElementById(elementId), {
+            const textarea = document.getElementById(elementId);
+            textarea.value = "";
+            const editor = CodeMirror.fromTextArea(textarea, {
                 value: initialCode,
-                mode: (language === 'C#' ? 'text/x-csharp' : 'text/x-c++'),
+                mode: (language === 'C#' ? 'text/x-csharp' : 'text/x-c++src'),
                 lineNumbers: true,
                 theme: 'seti'
             });
